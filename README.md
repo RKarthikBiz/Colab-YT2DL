@@ -1,4 +1,4 @@
-# Colab-YT2DL
+# Colab-YT2DL  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RKarthikBiz/Colab-YT2DL/blob/main/Colab_YT2DL.ipynb)
 This Colab Notebook allows for downloading of YouTube videos as either video or audio files using Google's resources without installation.
 
 ## Instructions
